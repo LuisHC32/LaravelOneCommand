@@ -28,3 +28,5 @@ Ejemplo:
           cpus: '0.25'
           memory: 256M
 ```
+### Pendiente
+agregar if en "Laravel ya existe. Saltando instalacion."
